@@ -1,4 +1,4 @@
-package com.cloud.Microsrv;
+package com.cloud.Microsrv.greeting;
 
 import java.io.Serializable;
 

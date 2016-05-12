@@ -1,4 +1,4 @@
-package com.cloud.Microsrv;
+package com.cloud.Microsrv.registration;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

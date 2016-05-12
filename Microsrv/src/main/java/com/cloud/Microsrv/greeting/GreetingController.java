@@ -1,4 +1,4 @@
-package com.cloud.Microsrv;
+package com.cloud.Microsrv.greeting;
 
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
